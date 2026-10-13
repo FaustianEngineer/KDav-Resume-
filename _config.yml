@@ -1,11 +1,11 @@
 # Configs
 
-title: "Victor E. Huskie"
-name: "Victor E. Huskie's Portfolio in Jekyll"
+title: "Katherine Davenport"
+name: "Katherine Davenports's Portfolio in Jekyll"
 email: 
-url: "https://71north.github.io"
+url: "https://FaustianEngineer.github.io"
 baseurl: "/jekyll-resume-template"
-repository: "71NORTH/jekyll-resume-template"
+repository: "FaustianEngineer/KDav-Resume-"
 header:
   image: /assets/images/banner-husky.jpg
 

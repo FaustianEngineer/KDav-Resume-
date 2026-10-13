@@ -4,7 +4,7 @@ title: "Katherine Davenport"
 name: "Katherine Davenports's Portfolio in Jekyll"
 email: 
 url: "https://FaustianEngineer.github.io"
-baseurl: "/jekyll-resume-template"
+baseurl: "/KDav-Resume-"
 repository: "FaustianEngineer/KDav-Resume-"
 header:
   image: /assets/images/banner-husky.jpg
